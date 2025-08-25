@@ -1,0 +1,13 @@
+* { 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+
+}
+
+article{
+   padding: 4px;
+    text-align: center;
+    text-align: right;
+}
